@@ -1,0 +1,13 @@
+En la parte principal habría un formulario para registrar una causa, 
+con campos como nombre de la propuesta, categoría, descripción y
+ ubicación general.
+Al enviar el formulario, la causa aparecería en una sección de 
+publicaciones comunitarias.
+Cada publicación mostraría un resumen de la causa, su fecha de creación
+ y el estado en que se encuentra.
+También tendría un botón llamado “Apoyar” para que las personas
+ registren su participación.
+Junto al botón se vería un contador actualizado con el número total de
+ apoyos recibidos.
+La vista debe ser fácil de entender, organizada y proteger los datos
+ personales de los usuarios.

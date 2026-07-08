@@ -1,0 +1,37 @@
+Entidad: Causa
+
+Campos principales:
+
+identificación
+
+título
+
+descripción
+
+fecha
+
+estado
+
+Propósito:
+Guarde las causas o problemas comunitarios que serán visibles en la
+ plataforma y sobre los que se hará seguimiento.
+
+-----
+
+ Entidad: Apoyo
+ 
+Campos principales:
+
+identificación
+
+causa_id
+
+usuario
+
+fecha
+
+tipo_apoyo
+
+Propósito:
+Registra los apoyos que recibe cada causa para medir la participación 
+de la comunidad y el avance del caso.
